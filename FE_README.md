@@ -38,14 +38,3 @@ https://docs.google.com/drawings/d/1khwyKTqfENMvGWRwunA3XVD44G8cJCMfpFby8JP-nac/
 https://docs.google.com/drawings/d/1UI8zHoe8xlvk6AF9HCp2iovDAu2wYAyLzh4bUhGavvI/edit
 
 
-#### Backend Schema
-
-{
-  * name: String
-  * img: String
-  * state: String
-  * activityType: String
-  * description : String
-  * address: String
-  
-  }
